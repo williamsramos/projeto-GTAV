@@ -18,7 +18,11 @@ Projeto desenvolvido na Semana do 0 ao Programador no  canal DEV EM DOBRO <br/>
 <br>
 
 <p align="center">
+<<<<<<< HEAD
   <img alt="projeto GTAV" src="./src/img/layout.png" width="100%">
+=======
+<!--   <img alt="projeto avatar" src="./assets/img/layout.png" width="100%"> -->
+>>>>>>> 806daebf7b0e4a8a0fa2902e7a35dbbe83b91ea4
 </p>
 
 ## 🚀 Tecnologias
