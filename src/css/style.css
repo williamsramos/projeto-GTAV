@@ -232,9 +232,4 @@ body {
 .rodape-gtaV  {
     text-align: center;
 	font-size: 20px;
-    bottom: 0;
-    left: 0;
-    position: fixed;
-    width: 100%;
-    color: #ffffff;
 }
