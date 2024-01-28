@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto sobre o anime Avatar .
 
 - [Acesse o projeto finalizado, online](https://github.com/williamsramos/projeto-GTAV)
-- [Acesse o site do projeto finalizado, online]()
+- [Acesse o site do projeto finalizado, online](https://projeto-gtav.vercel.app)
 
 
 
