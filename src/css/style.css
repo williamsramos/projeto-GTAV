@@ -1,3 +1,6 @@
+html{
+	scroll-behavior: smooth;
+}
 body {
 	background-color: #282828;
 	color: #fff;
@@ -160,7 +163,7 @@ body {
 	line-height: 1.6;
 }
 
-.compre-ja .informacoes .plataformas {
+.compre-ja .informacoes .plataformas{
 	display: flex;
 	flex-wrap: wrap;
 	gap: 32px;
@@ -177,7 +180,7 @@ body {
 	opacity: 0;
 }
 
-.compre-ja .btn-plataforma .plataformas.ativo {
+.compre-ja .btn-plataforma .plataformas  .ativo{
 	display: flex;
 	opacity: 1;
 }
