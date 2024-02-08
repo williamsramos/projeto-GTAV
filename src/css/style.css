@@ -1,6 +1,7 @@
 html{
 	scroll-behavior: smooth;
 }
+
 body {
 	background-color: #282828;
 	color: #fff;
@@ -180,7 +181,7 @@ body {
 	opacity: 0;
 }
 
-.compre-ja .btn-plataforma .plataformas  .ativo{
+.compre-ja .btn-plataforma .plataformas.ativo{
 	display: flex;
 	opacity: 1;
 }
